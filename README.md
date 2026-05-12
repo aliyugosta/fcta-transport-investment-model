@@ -29,6 +29,16 @@ Built a **comprehensive 10-year financial model** for a proposed multi-modal tra
 
 ---
 
+## 📸 Model Preview
+
+### 10-Year Summary — NGN (Nigerian Naira)
+![FCTA Financial Summary NGN](Screenshot%201.png)
+
+### 10-Year Summary — USD (US Dollar)
+![FCTA Financial Summary USD](Screenshot%20$.png)
+
+---
+
 ## 📁 Repository Contents
 
 ```
